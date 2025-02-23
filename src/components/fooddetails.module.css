@@ -1,0 +1,14 @@
+.foodDetailsContainer {
+  display: flex;
+  width: 500px;
+  justify-content: space-between;
+}
+
+.imageContainer {
+  max-width: 100%;
+  border-radius: 5px;
+}
+
+.foodInstructionContainer {
+  width: 500px;
+}
